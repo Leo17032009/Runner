@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 869a0dc34e6e70440a5a70b1a8113092
+timeCreated: 1538389652
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f00000040000000410000004200000043000000440000004500000046000000470000004800000049000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1baee66d23757c644d1dd9265cf6a857
+  longitude: -74.01299542990319
+  latitude: 40.7128411953444
+  northCorrection: 0.6439376104801227
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 45.785057, y: 720.6112, z: -473.9826}
+      lookAt: {x: -42.324726, y: 193.98683, z: 84.09373}
+      up: {x: 0.8783274, y: 0.27064985, z: 0.394068}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 7555.1494
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#10
+    100002: Component#14
+    100004: Component#17
+    100006: Component#18
+    100008: Component#18 1
+    100010: Component#23
+    100012: Component#23 1
+    100014: Component#24
+    100016: Component#24 1
+    100018: Component#30
+    100020: Component#30 1
+    100022: Component#30 10
+    100024: Component#30 11
+    100026: Component#30 2
+    100028: Component#30 3
+    100030: Component#30 4
+    100032: Component#30 5
+    100034: Component#30 6
+    100036: Component#30 7
+    100038: Component#30 8
+    100040: Component#30 9
+    100042: Component#31
+    100044: Component#31 1
+    100046: Component#31 10
+    100048: Component#31 11
+    100050: Component#31 2
+    100052: Component#31 3
+    100054: Component#31 4
+    100056: Component#31 5
+    100058: Component#31 6
+    100060: Component#31 7
+    100062: Component#31 8
+    100064: Component#31 9
+    100066: Component#33
+    100068: Google Earth Snapshot
+    100070: //RootNode
+    400000: Component#10
+    400002: Component#14
+    400004: Component#17
+    400006: Component#18
+    400008: Component#18 1
+    400010: Component#23
+    400012: Component#23 1
+    400014: Component#24
+    400016: Component#24 1
+    400018: Component#30
+    400020: Component#30 1
+    400022: Component#30 10
+    400024: Component#30 11
+    400026: Component#30 2
+    400028: Component#30 3
+    400030: Component#30 4
+    400032: Component#30 5
+    400034: Component#30 6
+    400036: Component#30 7
+    400038: Component#30 8
+    400040: Component#30 9
+    400042: Component#31
+    400044: Component#31 1
+    400046: Component#31 10
+    400048: Component#31 11
+    400050: Component#31 2
+    400052: Component#31 3
+    400054: Component#31 4
+    400056: Component#31 5
+    400058: Component#31 6
+    400060: Component#31 7
+    400062: Component#31 8
+    400064: Component#31 9
+    400066: Component#33
+    400068: Google Earth Snapshot
+    400070: //RootNode
+    2300000: Component#10
+    2300002: Component#14
+    2300004: Component#17
+    2300006: Component#18
+    2300008: Component#18 1
+    2300010: Component#23
+    2300012: Component#23 1
+    2300014: Component#24
+    2300016: Component#24 1
+    2300018: Component#30
+    2300020: Component#30 1
+    2300022: Component#30 10
+    2300024: Component#30 11
+    2300026: Component#30 2
+    2300028: Component#30 3
+    2300030: Component#30 4
+    2300032: Component#30 5
+    2300034: Component#30 6
+    2300036: Component#30 7
+    2300038: Component#30 8
+    2300040: Component#30 9
+    2300042: Component#31
+    2300044: Component#31 1
+    2300046: Component#31 10
+    2300048: Component#31 11
+    2300050: Component#31 2
+    2300052: Component#31 3
+    2300054: Component#31 4
+    2300056: Component#31 5
+    2300058: Component#31 6
+    2300060: Component#31 7
+    2300062: Component#31 8
+    2300064: Component#31 9
+    2300066: Component#33
+    2300068: Google Earth Snapshot
+    2300070: //RootNode
+    3300000: Component#10
+    3300002: Component#14
+    3300004: Component#17
+    3300006: Component#18
+    3300008: Component#18 1
+    3300010: Component#23
+    3300012: Component#23 1
+    3300014: Component#24
+    3300016: Component#24 1
+    3300018: Component#30
+    3300020: Component#30 1
+    3300022: Component#30 10
+    3300024: Component#30 11
+    3300026: Component#30 2
+    3300028: Component#30 3
+    3300030: Component#30 4
+    3300032: Component#30 5
+    3300034: Component#30 6
+    3300036: Component#30 7
+    3300038: Component#30 8
+    3300040: Component#30 9
+    3300042: Component#31
+    3300044: Component#31 1
+    3300046: Component#31 10
+    3300048: Component#31 11
+    3300050: Component#31 2
+    3300052: Component#31 3
+    3300054: Component#31 4
+    3300056: Component#31 5
+    3300058: Component#31 6
+    3300060: Component#31 7
+    3300062: Component#31 8
+    3300064: Component#31 9
+    3300066: Component#33
+    3300068: Google Earth Snapshot
+    3300070: //RootNode
+    4300000: Mesh One_World_Trade_Center
+    4300002: Mesh Google Earth Snapshot
+    4300004: Mesh Component#17
+    4300006: Mesh Component#10
+    4300008: Mesh Component#14
+    4300010: Mesh Component#18
+    4300012: Mesh Component#23
+    4300014: Mesh Component#24
+    4300016: Mesh Component#31
+    4300018: Mesh Component#30
+    4300020: Mesh Component#33
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
