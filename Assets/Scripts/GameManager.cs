@@ -87,9 +87,11 @@ public class GameManager : MonoBehaviour
 		if (_check == true) {
 			_shop.SetActive (true);
 			_check = false;
+			Time.timeScale = 0;
 		} else {
 			_shop.SetActive (false);
 			_check = true;
+			Time.timeScale = 1;
 		}
 	}
 
